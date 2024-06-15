@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\NetCore\\LeerData\\LeerData.csproj": {}
+    "C:\\Users\\gian.huallanca\\Desktop\\Bootcamp.Net\\LeerData\\LeerData.csproj": {}
   },
   "projects": {
-    "C:\\NetCore\\LeerData\\LeerData.csproj": {
+    "C:\\Users\\gian.huallanca\\Desktop\\Bootcamp.Net\\LeerData\\LeerData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\NetCore\\LeerData\\LeerData.csproj",
+        "projectUniqueName": "C:\\Users\\gian.huallanca\\Desktop\\Bootcamp.Net\\LeerData\\LeerData.csproj",
         "projectName": "LeerData",
-        "projectPath": "C:\\NetCore\\LeerData\\LeerData.csproj",
+        "projectPath": "C:\\Users\\gian.huallanca\\Desktop\\Bootcamp.Net\\LeerData\\LeerData.csproj",
         "packagesPath": "C:\\Users\\gian.huallanca\\.nuget\\packages\\",
-        "outputPath": "C:\\NetCore\\LeerData\\obj\\",
+        "outputPath": "C:\\Users\\gian.huallanca\\Desktop\\Bootcamp.Net\\LeerData\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+NzKI+/Z0Sg=",
+  "dgSpecHash": "coZkWoxZmTM=",
   "success": true,
-  "projectFilePath": "C:\\NetCore\\LeerData\\LeerData.csproj",
+  "projectFilePath": "C:\\Users\\gian.huallanca\\Desktop\\Bootcamp.Net\\LeerData\\LeerData.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gian.huallanca\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\gian.huallanca\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
