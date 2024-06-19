@@ -14,7 +14,7 @@ namespace LeerData
         public System.DateTime FechaPublicacion{get;set;}
         //Atraves de esta propiedad puedo intanciar valores de precio
         public Precio PrecioPromocion{get;set;}
-        //Atravaes de esta propiedad me permite almacenar la lista de comentario dentro de clase curso 
+        //Atraves de esta propiedad me permite almacenar la lista de comentario dentro de clase curso 
         public ICollection<Comentario> ComentarioLista {get;set;}
     }
 }
