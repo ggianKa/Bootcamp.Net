@@ -16,5 +16,6 @@ namespace LeerData
         public Precio PrecioPromocion{get;set;}
         //Atraves de esta propiedad me permite almacenar la lista de comentario dentro de clase curso 
         public ICollection<Comentario> ComentarioLista {get;set;}
+        public ICollection<CursoInstructor> InstructorLink {get;set;}
     }
 }
